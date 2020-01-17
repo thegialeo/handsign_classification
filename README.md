@@ -1,6 +1,6 @@
 # Handsign Classification
 
-This the source code for the Midterm Project of the lecture *Introduction to Deep Learning* at National Taiwan University.
+This source code accompanies the Midterm Project of the lecture *Introduction to Deep Learning* at National Taiwan University.
 
 ## Requirements
 > pip install -r requirements.txt
